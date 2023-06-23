@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 from db import db_table_val, db_comment_save
 
-bot = telebot.TeleBot('6260856807:AAHPXUxbgsvdN0WfiJyuuZipkYmkuNgR9Ks')
+bot = telebot.TeleBot('YOU TOKEN')
 
 
 @bot.message_handler(commands=['start'])
