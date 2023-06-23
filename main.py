@@ -65,7 +65,7 @@ def comment(message):
 def comment_action(message):
     data_user = (f'ID нашего пользователя->:{message.from_user.id}, Имя нашего пользователя->:{message.from_user.first_name}, фамилия->:{message.from_user.last_name}, Ник нейм->:{message.from_user.username}')
     db_comment_save(message.from_user.id, message.text)
-    c = [895754350]
+    c = [777777777777]
     for i in c:
         bot.send_message(i, f'У нас новый отзыв, нам написал: <b>{data_user}</b>, и вот что он пишет: <b>{message.text}</b>', parse_mode='HTML')
     text1 = ('Спасибо вам за ваш отзыв!')
@@ -511,9 +511,9 @@ if __name__ == "__main__":
         print('Сработал finally')
         time.sleep(15)
         bot.polling(none_stop=True)
-        c = [5851216128]
+        c = [777777777]
         for i in c:
-            bot.send_message(i, 'ТелеграмБОТ Kytty скоро упадет')
+            bot.send_message(i, 'ТелеграмБОТ **** скоро упадет')
 
 
 
