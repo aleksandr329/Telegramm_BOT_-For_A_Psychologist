@@ -1,0 +1,23 @@
+This Telegramm Bot was developed for a Psychologist in Yekaterinburg.
+In the BOTE production, the logic of the psychoanalysis test is implemented.
+Also this BOT with detection and the ability to detect the Database of its target audience.
+
+In the photo folder, all the photos that are involved in the bot.
+In the video folder, all the videos that participate in the bot.
+All logic is written in the main.py file.
+The db.py file is responsible for working with the SQLite database.
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+<-'RUS'->
+
+
+Этот Telegramm Bot был разработан для Психолога в г.Екатеринбург.
+В данном БОТЕ реализованна логика теста по психоанализу.
+Так же этот БОТ с функцией обратной связи и возможностью собирать Базу Данных своей ЦА.
+
+В папке photo все фотографии которые задействованны в боте.
+В папке video все видео которые задействованны в боте.
+Вся логика написана в файле main.py.
+Файл db.py отвечает за работу с базой данных SQLite.
+
